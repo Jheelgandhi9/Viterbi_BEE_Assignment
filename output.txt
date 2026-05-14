@@ -1,0 +1,4 @@
+Best Path Probability: 1.59405e-17
+Log of probability: -38.6777
+Best Path: 
+E E E E E E E E E E E E E E E E E E E E E E E E E E 
